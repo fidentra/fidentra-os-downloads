@@ -4,7 +4,7 @@ Official Android build of **Fidentra OS**.
 
 ## Download
 
-[**Download FidentraOS-1.0.1.apk**](https://github.com/fidentra/fidentra-os-downloads/releases/latest/download/FidentraOS-1.0.1.apk)
+[**Download FidentraOS-1.0.2.apk**](https://github.com/fidentra/fidentra-os-downloads/releases/latest/download/FidentraOS-1.0.2.apk)
 
 All versions are on the [Releases](../../releases) page.
 
